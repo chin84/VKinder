@@ -1,0 +1,10 @@
+
+user_token= 'vk1.a.J4NNuKfnvXrcGsNvJsMsoV5mJDKxLtKuazl_jCO45PDT6iI0PFKnTQYFamfyyaNA7-ECjna8VP3OeqYJTVDX0U11k2cxIlRBN7qIW-rIpidM58RSCkWknWhd2D5GpKHaXq8CJnhOswCbaFKgcD6wHBvYZ3HFbyaGv_pepeF3nK1jQFpqdH60zcZIfmkPprAOWl5gE763avUGt98KxzQz2A'
+group_token = 'vk1.a.bpCrpgPjb-iEweWeGz7CCV8bIlW-SO6UQZbgiHJbrez8zu4yPYcJOBm3mn0QxiwDAP5pSfrV5y6DHy9jcjGG3cA_96ayQvGmi7NvLUpKycYrIpJVKtKk7_mrBEA8klHgm5eswnkNM5AsvEme-DBXDNR7BjMNy9XpsFHkfimRdFOG4e72xH1aD1Mi7m8SOlD306qkHv303BHJ8iBYY0CuLQ'
+
+
+
+host = '127.0.0.1'
+user = 'postgres'
+password = '06052014'
+db_title = 'bot_users'
